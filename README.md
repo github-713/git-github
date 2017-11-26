@@ -1,2 +1,2 @@
 # git-practice
-This is Login form practice repository
+This is Login form practice repository.
